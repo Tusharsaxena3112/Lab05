@@ -9,7 +9,7 @@ public class Question1 {
             System.out.println("Y");
         }
         else {
-            System.out.println("Bye");
+            System.out.println("by");
         }
     }
 }
