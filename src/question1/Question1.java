@@ -6,7 +6,7 @@ public class Question1 {
         int a = input.nextInt();
         int b = input.nextInt();
         if ((a ^ b) == (a | b)) {
-            System.out.println("Yes");
+            System.out.println("Y");
         }
         else {
             System.out.println("Bye");
